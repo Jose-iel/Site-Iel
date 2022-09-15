@@ -193,6 +193,7 @@ header, .navbar{
 /* Time */
 .card-body {
     text-align: center;
+    background-color: #EC9732;
 }
 
 /* Trabalhe Conosco */
@@ -323,7 +324,7 @@ header, .navbar{
 
 /* call to action */
 #call-area {
-    background-color: #65DAF9;
+    background-color: #EC9732;
     text-transform: uppercase;
 }
 
@@ -350,7 +351,7 @@ header, .navbar{
 
 #call-area #call-btn{
     background-color: #fff;
-    color: #65DAF9;
+    color: #EC9732;
     font-weight: bold;
     font-size: 20px;
     margin-left: 30px;
